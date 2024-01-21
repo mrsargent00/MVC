@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/mrsargent00/MVC/issues"
   },
-  "homepage": "https://github.com/mrsargent00/MVC#readme"
+  "homepage": "https://github.com/mrsargent00/MVC#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "connect-session-sequelize": "^7.1.7",
+    "dotenv": "^16.3.2",
+    "express-session": "^1.17.3"
+  }
 }
