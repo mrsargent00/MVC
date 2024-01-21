@@ -1,0 +1,8 @@
+assignment-instructions/
+package-lock.json
+__notes.txt
+color-palette.jpg
+
+node_modules/
+.env
+.DS_Store

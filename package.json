@@ -1,0 +1,20 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsargent00/MVC.git"
+  },
+  "author": "Megan Sargent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrsargent00/MVC/issues"
+  },
+  "homepage": "https://github.com/mrsargent00/MVC#readme"
+}
